@@ -49,6 +49,7 @@ public class Program {
 		conta.sacar(saque);
 		System.out.println("Update account data: ");
 		System.out.println(conta);
+		System.out.println("Thank you so much for using our bank, check back often !!");
 		
 		
 		tec.close();
